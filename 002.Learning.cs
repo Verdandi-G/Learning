@@ -6,8 +6,9 @@ namespace Learning
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Learning C# is fun!");
-            Console.WriteLine("Let's explore the basics of C# programming.");
+           	String Antwort;
+			Console.WriteLine("Moin :)");
+            Antwort = Console.ReadLine();
         }
     }
 }
